@@ -154,7 +154,7 @@ const andria: Developer = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#0d1117', 'primaryTextColor':' #FFFFFF', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1e2e', 'tertiaryColor':'#0d1117', 'noteTextColor':'#fff', 'noteBkgColor':'#1a1e2e', 'textColor':'#fff', 'fontSize':'16px'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#0d1117', 'primaryTextColor':' #ffffff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1e2e', 'tertiaryColor':'#0d1117', 'noteTextColor':'#fff', 'noteBkgColor':'#1a1e2e', 'textColor':'#fff', 'fontSize':'16px'}}}%%
 mindmap
   root((Andria))
     Technical Excellence
