@@ -175,46 +175,36 @@ mindmap
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" align="center">
+<img src="https://img.shields.io/badge/Technical_Skills-FF6B6B?style=for-the-badge&logoColor=white" />
 
-### 🧠 **Technical Skills**
-
-- Logical Thinking
-- Problem-Solving
-- Debugging Mastery
-- Performance Tuning
-- API Integration
-- Testing & QA
+**Logical Thinking** • **Problem-Solving**  
+**Debugging Mastery** • **Performance Tuning**  
+**API Integration** • **Testing & QA**
 
 </td>
 <td width="33%" align="center">
+<img src="https://img.shields.io/badge/Collaboration-4ECDC4?style=for-the-badge&logoColor=white" />
 
-### 🤝 **Collaboration**
-
-- Team Leadership
-- Client Communication
-- Agile Methodology
-- Code Reviews
-- Mentoring
-- Documentation
+**Team Leadership** • **Client Communication**  
+**Agile Methodology** • **Code Reviews**  
+**Mentoring** • **Documentation**
 
 </td>
 <td width="33%" align="center">
+<img src="https://img.shields.io/badge/Mindset-FFE66D?style=for-the-badge&logoColor=black" />
 
-### 🚀 **Mindset**
-
-- Growth-Oriented
-- Detail-Focused
-- Deadline-Driven
-- Innovation Seeker
-- Continuous Learner
-- Quality Advocate
+**Growth-Oriented** • **Detail-Focused**  
+**Deadline-Driven** • **Innovation Seeker**  
+**Continuous Learner** • **Quality Advocate**
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
