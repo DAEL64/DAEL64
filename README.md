@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Andria+Janelidze;Frontend+Developer;2%2B+Years+of+Experience;Building+Exceptional+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Andria+Janelidze;Frontend+Developer;React+Specialist;2%2B+Years+of+Experience;Building+Exceptional+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=andriajanelidze&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/andriajanelidze?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=DAEL64&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/DAEL64?label=Followers&style=social" alt="followers" />
 </div>
 
 ---
@@ -81,84 +81,4 @@ const andria = {
 - 🔌 Implemented **RESTful APIs** and integrated third-party services
 - 🤝 Collaborated with clients to gather requirements and deliver milestones on time
 - ⚙️ Optimized application performance and maintained code quality using **Git**
-- 🚀 Spearheaded UI redesigns that significantly improved client satisfaction by **30%**
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-
-| Technical Skills | Soft Skills |
-|-----------------|-------------|
-| 🧩 Logical Thinking & Analytical Skills | 💬 Strong Communication |
-| 🔍 Problem-Solving & Debugging | 🤝 Teamwork & Collaboration |
-| 🎨 UI/UX Design Implementation | 💪 Perseverance & Patience |
-| ⚡ Performance Optimization | 🔄 Adaptability & Learning Agility |
-| 🧪 Testing & Troubleshooting | ⏱️ Time Management & Discipline |
-| 🚀 RESTful API Integration | 💡 Creativity & Innovation |
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andriajanelidze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriajanelidze&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andriajanelidze&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andriajanelidze&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andriajanelidze&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<!-- Add your top projects here
-<div align="center">
-  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=andriajanelidze&repo=project-name&theme=tokyonight)](https://github.com/andriajanelidze/project-name)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=andriajanelidze&repo=project-name&theme=tokyonight)](https://github.com/andriajanelidze/project-name)
-
-</div>
--->
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andria-janelidze)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andria.janelidze@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/andriajanelidze)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  
-### 💙 Thanks for visiting! Let's build something amazing together! 🚀
-
-</div>
+- 🚀 Spearheaded UI redesigns that significantly improved client satisfaction by **
