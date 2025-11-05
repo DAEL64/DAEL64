@@ -154,24 +154,26 @@ const andria: Developer = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00d9ff', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1e2e', 'tertiaryColor':'#0d1117', 'noteTextColor':'#ffffff', 'noteBkgColor':'#1a1e2e', 'textColor':'#ffffff', 'fontSize':'16px'}}}%%
-mindmap
-  root((Andria))
-    Technical Excellence
-      React Ecosystem Expert
-      TypeScript Advocate
-      Performance Optimizer
-      Clean Code Practitioner
-    Soft Skills
-      Clear Communicator
-      Team Player
-      Quick Learner
-      Problem Solver
-    Results
-      Fast Delivery
-      Quality Code
-      User-Centric Design
-      Scalable Solutions
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00d9ff', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1e2e', 'tertiaryColor':'#0d1117', 'textColor':'#ffffff', 'fontSize':'16px'}}}%%
+graph TD
+    A[Andria Janelidze] --> B[Technical Excellence]
+    A --> C[Soft Skills]
+    A --> D[Results]
+    
+    B --> B1[React Ecosystem Expert]
+    B --> B2[TypeScript Advocate]
+    B --> B3[Performance Optimizer]
+    B --> B4[Clean Code Practitioner]
+    
+    C --> C1[Clear Communicator]
+    C --> C2[Team Player]
+    C --> C3[Quick Learner]
+    C --> C4[Problem Solver]
+    
+    D --> D1[Fast Delivery]
+    D --> D2[Quality Code]
+    D --> D3[User-Centric Design]
+    D --> D4[Scalable Solutions]
 ```
 
 </div>
