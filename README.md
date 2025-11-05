@@ -81,4 +81,4 @@ const andria = {
 - 🔌 Implemented **RESTful APIs** and integrated third-party services
 - 🤝 Collaborated with clients to gather requirements and deliver milestones on time
 - ⚙️ Optimized application performance and maintained code quality using **Git**
-- 🚀 Spearheaded UI redesigns that significantly improved client satisfaction by **
+- 🚀 Spearheaded UI redesigns that significantly improved client satisfaction
