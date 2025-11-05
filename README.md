@@ -154,7 +154,7 @@ const andria: Developer = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00d9ff', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1e2e', 'tertiaryColor':'#0d1117', 'textColor':'#ffffff', 'fontSize':'16px'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00d9ff', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1e2e', 'tertiaryColor':'#0d1117', 'textColor':'#ffffff', 'fontSize':'32px'}}}%%
 graph TD
     A[Andria Janelidze] --> B[Technical Excellence]
     A --> C[Soft Skills]
